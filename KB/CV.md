@@ -13,7 +13,7 @@
   * [Image Segmentation, Object Detection](https://github.com/terryum/awesome-deep-learning-papers#image-segmentation--object-detection)
   * [Image, Video](https://github.com/terryum/awesome-deep-learning-papers#image--video--etc)
   
-  ## Books
+## Books
   * Bishop, Christopher; [Pattern Recognition and Machine Learning](http://www.springer.com/in/book/9780387310732); Springer. 
   * Szelski, Richard; [Computer Vision: Algorithms and Applications] (http://szeliski.org/Book), Springer.
   * Bradski, Gray; Kaehler, Adrian; [Learning OpenCV](http://shop.oreilly.com/product/9780596516130.do), O'Reilly
